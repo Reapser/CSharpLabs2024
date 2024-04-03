@@ -1,0 +1,14 @@
+F:\c#\Prac2.2\Prac2.2\bin\Debug\net8.0\Prac2.2.exe
+F:\c#\Prac2.2\Prac2.2\bin\Debug\net8.0\Prac2.2.deps.json
+F:\c#\Prac2.2\Prac2.2\bin\Debug\net8.0\Prac2.2.runtimeconfig.json
+F:\c#\Prac2.2\Prac2.2\bin\Debug\net8.0\Prac2.2.dll
+F:\c#\Prac2.2\Prac2.2\bin\Debug\net8.0\Prac2.2.pdb
+F:\c#\Prac2.2\Prac2.2\obj\Debug\net8.0\Prac2.2.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Prac2.2\Prac2.2\obj\Debug\net8.0\Prac2.2.AssemblyInfoInputs.cache
+F:\c#\Prac2.2\Prac2.2\obj\Debug\net8.0\Prac2.2.AssemblyInfo.cs
+F:\c#\Prac2.2\Prac2.2\obj\Debug\net8.0\Prac2.2.csproj.CoreCompileInputs.cache
+F:\c#\Prac2.2\Prac2.2\obj\Debug\net8.0\Prac2.2.dll
+F:\c#\Prac2.2\Prac2.2\obj\Debug\net8.0\refint\Prac2.2.dll
+F:\c#\Prac2.2\Prac2.2\obj\Debug\net8.0\Prac2.2.pdb
+F:\c#\Prac2.2\Prac2.2\obj\Debug\net8.0\Prac2.2.genruntimeconfig.cache
+F:\c#\Prac2.2\Prac2.2\obj\Debug\net8.0\ref\Prac2.2.dll
