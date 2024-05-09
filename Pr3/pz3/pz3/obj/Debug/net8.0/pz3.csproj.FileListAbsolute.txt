@@ -1,0 +1,14 @@
+F:\c#\pz3\pz3\bin\Debug\net8.0\pz3.exe
+F:\c#\pz3\pz3\bin\Debug\net8.0\pz3.deps.json
+F:\c#\pz3\pz3\bin\Debug\net8.0\pz3.runtimeconfig.json
+F:\c#\pz3\pz3\bin\Debug\net8.0\pz3.dll
+F:\c#\pz3\pz3\bin\Debug\net8.0\pz3.pdb
+F:\c#\pz3\pz3\obj\Debug\net8.0\pz3.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\pz3\pz3\obj\Debug\net8.0\pz3.AssemblyInfoInputs.cache
+F:\c#\pz3\pz3\obj\Debug\net8.0\pz3.AssemblyInfo.cs
+F:\c#\pz3\pz3\obj\Debug\net8.0\pz3.csproj.CoreCompileInputs.cache
+F:\c#\pz3\pz3\obj\Debug\net8.0\pz3.dll
+F:\c#\pz3\pz3\obj\Debug\net8.0\refint\pz3.dll
+F:\c#\pz3\pz3\obj\Debug\net8.0\pz3.pdb
+F:\c#\pz3\pz3\obj\Debug\net8.0\pz3.genruntimeconfig.cache
+F:\c#\pz3\pz3\obj\Debug\net8.0\ref\pz3.dll
